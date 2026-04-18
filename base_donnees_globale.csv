@@ -1,4 +1,4 @@
-Marque,Année_Velo,Kilométrage,Prix Vente (€),Prix Neuf (€),Année de la vente,Mois de la vente,Age du vélo,Décôte/neuf (%),Lien,Source,Date_Scan_Str
+Marque,Année_Velo,Kilométrage,Prix Vente (€),Prix Neuf (€),Année de la vente,Mois de la vente,Age du vélo,Décôte/neuf (%),Lien,Source,Date_Scan
 Focus,2020.0,2780,1999.0,4399.0,2025.0,June,5.0,54.6,5,Sheet_Données de ventes internes,01/06/2025
 O2,2022.0,3800,842.0,2399.0,2025.0,June,3.0,64.9,3,Sheet_Données de ventes internes,01/06/2025
 O2,2021.0,460,988.0,2099.0,2025.0,June,4.0,52.9,4,Sheet_Données de ventes internes,01/06/2025
