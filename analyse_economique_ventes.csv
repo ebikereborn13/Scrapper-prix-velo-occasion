@@ -1,4 +1,4 @@
-Date_Vente,Facture,Marque,Vélo,Année,Type_TVA,PA HT,Frais,PV HT,PV TTC,Marge Nette HT,Marge %,Jours Stock
+Date_Vente,Facture,Marque,Kilométrage,Année,Type_TVA,PA HT,Frais,PV HT,PV TTC,Marge Nette HT,Marge %,Jours Stock
 12/06/2025,1000006,FOCUS,,2020,TVA s/ Marge,1245.0,107.64,1891.27,1999.0,538.63,28.48,13
 13/06/2025,1000008,O2 FEEL,,2022,TVA Classique,681.67,17.78,701.67,842.0,2.22,0.32,85
 19/06/2025,1000010,O2 FEEL,,2021,TVA Classique,680.71,0.0,823.33,988.0,142.62,17.32,91
