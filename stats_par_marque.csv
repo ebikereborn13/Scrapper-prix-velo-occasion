@@ -1,5 +1,9 @@
-Marque,Nombre_Ventes,Total_Marge_HT,Moyenne_Jours_Stock
-CONWAY,2,699.7,0.0
-HAIBIKE,1,6.67,1.0
-LAPIERRE,1,499.17,7.0
-MARIN,1,203.13,7.0
+Marque,Nombre_Ventes,Total_Marge_HT,Moyenne_Jours_Stock,Nb de vente totale,CA total,Marge Totale,Somme Jours,CA Moyen,Marge Moyenne,%Marge,Délai de vente moyen
+CONWAY,2.0,699.7,0.0,,,,,,,,
+HAIBIKE,1.0,6.67,1.0,,,,,,,,
+LAPIERRE,1.0,499.17,7.0,,,,,,,,
+MARIN,1.0,203.13,7.0,,,,,,,,
+CONWAY,,,,2.0,4816.66,699.7,0.0,2408.33,349.85,14.53%,0.0
+HAIBIKE,,,,1.0,840.0,6.67,1.0,840.0,6.67,0.79%,1.0
+LAPIERRE,,,,1.0,1415.83,499.17,7.0,1415.83,499.17,35.26%,7.0
+MARIN,,,,1.0,690.83,203.13,7.0,690.83,203.13,29.4%,7.0
