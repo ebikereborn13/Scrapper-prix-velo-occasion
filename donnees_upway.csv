@@ -149,26 +149,48 @@ Date Vente,Année Vente,Mois Vente,Marque,Année Vélo,Kilométrage,Prix Vente (
 ,,,Conway,,646,2149,4299,https://upway.fr/products/conway-cairon-20-rr5ap5,,04/05/2026,2023.0
 ,,,Mondraker,,9 596,1699,4585,https://upway.fr/products/mondraker-prime-r-od58,,04/05/2026,2026.0
 ,,,Haibike,,2 535,1499,2999,https://upway.fr/products/haibike-hardseven-6-rr4kz6,,04/05/2026,2021.0
-,,,Cube,,1 015,2299,3049,https://upway.fr/products/cube-reaction-hybrid-pro-500-rr5nm4,,11/05/2026,2023
-,,,Trek,,1 975,1599,4199,https://upway.fr/products/trek-powerfly-5-rr5qe6,,11/05/2026,2016
-,,,Fantic,,3 056,2149,5200,https://upway.fr/products/fantic-xtf-15-jr41,,11/05/2026,2022
-,,,Decathlon,,1 289,999,1499,https://upway.fr/products/decathlon-est-500-rr4xe3,,11/05/2026,2022
-,,,Bulls,,300,1899,3199,https://upway.fr/products/bulls-lt-cx-rr5lg8,,11/05/2026,2025
-,,,Bulls,,2 191,2249,4858,https://upway.fr/products/bulls-copperhead-evo-am-2-rr4wr1,,11/05/2026,2022
-,,,Cube,,3 969,2199,3699,https://upway.fr/products/cube-reaction-hybrid-exc-rr5rz0,,11/05/2026,2022
-,,,Cube,,7 063,1899,3949,https://upway.fr/products/cube-reaction-hybrid-slt-625-29-rr5ck9,,11/05/2026,2020
-,,,Bulls,,339,2049,3846,https://upway.fr/products/bulls-aminga-eva-1-rr4wr0,,11/05/2026,2023
-,,,Cube,,588,2349,3249,https://upway.fr/products/cube-reaction-hybrid-race-rr5px9,,11/05/2026,2022
-,,,Bulls,,269,2049,3749,https://upway.fr/products/bulls-evo-625-rr4za6,,11/05/2026,2023
-,,,Scott,,384,2099,3699,https://upway.fr/products/scott-contessa-active-eride-910-rr3pc2,,11/05/2026,2021
-,,,Giant,,1 928,1749,3300,https://upway.fr/products/giant-fathom-e-2-rr5ns8,,11/05/2026,2022
-,,,Bulls,,193,2249,4396,https://upway.fr/products/bulls-aminga-eva-2-rr4fy1,,11/05/2026,2022
-,,,Cube,,11 102,1299,2765,https://upway.fr/products/cube-reaction-hybrid-pro-500-29-rr5wu9,,11/05/2026,2021
-,,,Cube,,2 544,1599,2499,https://upway.fr/products/cube-reaction-hybrid-pro-500-rr5ep5,,11/05/2026,2020
-,,,Cube,,163,2299,2949,https://upway.fr/products/cube-reaction-hybrid-performance-rr3nu9,,11/05/2026,2023
-,,,Scott,,1 206,1549,2699,https://upway.fr/products/scott-esub-cross-30-rr5jc7,,11/05/2026,2022
-,,,Cube,,20 914,1349,3498,https://upway.fr/products/cube-nuride-hybrid-pro-750-allroad-rr5ap8,,11/05/2026,2022
-,,,Cube,,259,2199,2999,https://upway.fr/products/cube-nuride-hybrid-pro-625-allroad-rr5nh7,,11/05/2026,2022
-,,,Cube,,1 620,2099,2999,https://upway.fr/products/cube-kathmandu-hybrid-one-625-rr5rr7,,11/05/2026,2022
-,,,Bianchi,,6 642,2149,5999,https://upway.fr/products/bianchi-eomnia-fxtype-xt-rr5al1,,11/05/2026,2022
-,,,Raymon,,3 359,1299,2999,https://upway.fr/products/raymon-hardray-enine-40-rr5jy0,,11/05/2026,2021
+,,,Cube,,1 015,2299,3049,https://upway.fr/products/cube-reaction-hybrid-pro-500-rr5nm4,,11/05/2026,2023.0
+,,,Trek,,1 975,1599,4199,https://upway.fr/products/trek-powerfly-5-rr5qe6,,11/05/2026,2016.0
+,,,Fantic,,3 056,2149,5200,https://upway.fr/products/fantic-xtf-15-jr41,,11/05/2026,2022.0
+,,,Decathlon,,1 289,999,1499,https://upway.fr/products/decathlon-est-500-rr4xe3,,11/05/2026,2022.0
+,,,Bulls,,300,1899,3199,https://upway.fr/products/bulls-lt-cx-rr5lg8,,11/05/2026,2025.0
+,,,Bulls,,2 191,2249,4858,https://upway.fr/products/bulls-copperhead-evo-am-2-rr4wr1,,11/05/2026,2022.0
+,,,Cube,,3 969,2199,3699,https://upway.fr/products/cube-reaction-hybrid-exc-rr5rz0,,11/05/2026,2022.0
+,,,Cube,,7 063,1899,3949,https://upway.fr/products/cube-reaction-hybrid-slt-625-29-rr5ck9,,11/05/2026,2020.0
+,,,Bulls,,339,2049,3846,https://upway.fr/products/bulls-aminga-eva-1-rr4wr0,,11/05/2026,2023.0
+,,,Cube,,588,2349,3249,https://upway.fr/products/cube-reaction-hybrid-race-rr5px9,,11/05/2026,2022.0
+,,,Bulls,,269,2049,3749,https://upway.fr/products/bulls-evo-625-rr4za6,,11/05/2026,2023.0
+,,,Scott,,384,2099,3699,https://upway.fr/products/scott-contessa-active-eride-910-rr3pc2,,11/05/2026,2021.0
+,,,Giant,,1 928,1749,3300,https://upway.fr/products/giant-fathom-e-2-rr5ns8,,11/05/2026,2022.0
+,,,Bulls,,193,2249,4396,https://upway.fr/products/bulls-aminga-eva-2-rr4fy1,,11/05/2026,2022.0
+,,,Cube,,11 102,1299,2765,https://upway.fr/products/cube-reaction-hybrid-pro-500-29-rr5wu9,,11/05/2026,2021.0
+,,,Cube,,2 544,1599,2499,https://upway.fr/products/cube-reaction-hybrid-pro-500-rr5ep5,,11/05/2026,2020.0
+,,,Cube,,163,2299,2949,https://upway.fr/products/cube-reaction-hybrid-performance-rr3nu9,,11/05/2026,2023.0
+,,,Scott,,1 206,1549,2699,https://upway.fr/products/scott-esub-cross-30-rr5jc7,,11/05/2026,2022.0
+,,,Cube,,20 914,1349,3498,https://upway.fr/products/cube-nuride-hybrid-pro-750-allroad-rr5ap8,,11/05/2026,2022.0
+,,,Cube,,259,2199,2999,https://upway.fr/products/cube-nuride-hybrid-pro-625-allroad-rr5nh7,,11/05/2026,2022.0
+,,,Cube,,1 620,2099,2999,https://upway.fr/products/cube-kathmandu-hybrid-one-625-rr5rr7,,11/05/2026,2022.0
+,,,Bianchi,,6 642,2149,5999,https://upway.fr/products/bianchi-eomnia-fxtype-xt-rr5al1,,11/05/2026,2022.0
+,,,Raymon,,3 359,1299,2999,https://upway.fr/products/raymon-hardray-enine-40-rr5jy0,,11/05/2026,2021.0
+,,,Cube,,779,1949,2549,https://upway.fr/products/cube-reaction-hybrid-one-rr6eh7,,13/05/2026,2022
+,,,Cube,,4 673,2149,3499,https://upway.fr/products/cube-reaction-hybrid-exc-rr5lt8,,13/05/2026,2022
+,,,Trek,,2 030,1949,4124,https://upway.fr/products/trek-powerfly-4-rr6ma2,,13/05/2026,2022
+,,,Cube,,2 075,1599,2599,https://upway.fr/products/cube-reaction-hybrid-exc-rr5nk9,,13/05/2026,2019
+,,,Cube,,1 015,2249,3049,https://upway.fr/products/cube-reaction-hybrid-pro-500-rr5nm4,,13/05/2026,2023
+,,,Raymon,,2 255,2299,4759,https://upway.fr/products/raymon-crossray-fs-e-50-rr4bm7,,13/05/2026,2023
+,,,Decathlon,,111,1199,1500,https://upway.fr/products/decathlon-expl-140-rr5qg2,,13/05/2026,2026
+,,,Cube,,172,1999,2549,https://upway.fr/products/cube-reaction-hybrid-one-500-rr5st8,,13/05/2026,2022
+,,,Bulls,,576,2249,4299,https://upway.fr/products/bulls-estream-evo-1-29-rr4bq3,,13/05/2026,2022
+,,,Flyer,,5,2399,5199,https://upway.fr/products/flyer-uproc-2-210-rr5yc6,,13/05/2026,2022
+,,,Cube,,1 051,2249,3149,https://upway.fr/products/cube-reaction-hybrid-pro-625-29-rr2wl5,,13/05/2026,2022
+,,,Ghost,,745,1849,3330,https://upway.fr/products/ghost-hybride-htx-sport-10-ltd-rr5lg3,,13/05/2026,2022
+,,,Rockrider,,154,1949,2499,https://upway.fr/products/rockrider-eexpl-500-s-rr5sy3,,13/05/2026,2025
+,,,Bulls,,2 108,2099,4299,https://upway.fr/products/bulls-copperhead-evo-2-rr5hu5,,13/05/2026,2022
+,,,Trek,,1 213,1749,3499,https://upway.fr/products/trek-powerfly-4-rr5ua4,,13/05/2026,2022
+,,,Cube,,666,2199,2949,https://upway.fr/products/cube-reaction-hybrid-pro-625-rr5rn3,,13/05/2026,2022
+,,,Nakamura,,1 322,1999,2899,https://upway.fr/products/nakamura-esummit-950s-rr5rm4,,13/05/2026,2024
+,,,Haibike,,2 640,1749,2999,https://upway.fr/products/haibike-alltrack-4-rr5nq6,,13/05/2026,2023
+,,,Cube,,1 812,2249,3249,https://upway.fr/products/cube-reaction-hybrid-race-625-dqp70,,13/05/2026,2022
+,,,Cube,,1 672,1949,2849,https://upway.fr/products/cube-reaction-hybrid-pro-rr2pm7,,13/05/2026,2021
+,,,Nakamura,,5,1549,1999,https://upway.fr/products/nakamura-950-esummit-rr5ut1,,13/05/2026,2023
+,,,Scott,,2 410,1499,2699,https://upway.fr/products/scott-contessa-active-eride-930-rr5zt5,,13/05/2026,2022
