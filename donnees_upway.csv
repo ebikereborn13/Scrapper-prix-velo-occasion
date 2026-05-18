@@ -194,22 +194,45 @@ Date Vente,Année Vente,Mois Vente,Marque,Année Vélo,Kilométrage,Prix Vente (
 ,,,Cube,,1 672,1949,2849,https://upway.fr/products/cube-reaction-hybrid-pro-rr2pm7,,13/05/2026,2021.0
 ,,,Nakamura,,5,1549,1999,https://upway.fr/products/nakamura-950-esummit-rr5ut1,,13/05/2026,2023.0
 ,,,Scott,,2 410,1499,2699,https://upway.fr/products/scott-contessa-active-eride-930-rr5zt5,,13/05/2026,2022.0
-,,,Cube,,371,2299,3459,https://upway.fr/products/cube-nuride-hybrid-exc-allroad-rr5fm9,,14/05/2026,2020
-,,,Cube,,779,1899,2549,https://upway.fr/products/cube-reaction-hybrid-one-rr6eh7,,14/05/2026,2022
-,,,Trek,,2 030,1899,4124,https://upway.fr/products/trek-powerfly-4-rr6ma2,,14/05/2026,2022
-,,,Pegasus,,5 053,1249,3579,https://upway.fr/products/pegasus-premio-evo-10-lite-rr6dx3,,14/05/2026,2021
-,,,Ghost,,3 219,2299,4599,https://upway.fr/products/ghost-eteru-pro-eq-rr5yp3,,14/05/2026,2023
-,,,Cube,,5,2299,2849,https://upway.fr/products/cube-reaction-hybrid-one-625-rr5qn6,,14/05/2026,2023
-,,,Hoheacht,,4 573,2449,5788,https://upway.fr/products/hoheacht-mola-terra-rr6bl6,,14/05/2026,2023
-,,,Scott,,2 260,2449,6199,https://upway.fr/products/scott-contessa-spark-eride-710-rr3qh8,,14/05/2026,2018
-,,,Giant,,987,2499,4199,https://upway.fr/products/giant-fathom-e-ex-1-l-rr5ld8,,14/05/2026,2024
-,,,Fischer,,630,1349,2699,https://upway.fr/products/fischer-em1723-rr4th1,,14/05/2026,2019
-,,,Cube,,1 015,2199,3049,https://upway.fr/products/cube-reaction-hybrid-pro-500-rr5nm4,,14/05/2026,2023
-,,,Mondraker,,12 291,1249,3599,https://upway.fr/products/mondraker-prime-x-rr5ht1,,14/05/2026,2021
-,,,Raymon,,2 255,2249,4759,https://upway.fr/products/raymon-crossray-fs-e-50-rr4bm7,,14/05/2026,2023
-,,,Cube,,172,1949,2549,https://upway.fr/products/cube-reaction-hybrid-one-500-rr5st8,,14/05/2026,2022
-,,,Bulls,,576,2199,4299,https://upway.fr/products/bulls-estream-evo-1-29-rr4bq3,,14/05/2026,2022
-,,,Flyer,,5,2349,5199,https://upway.fr/products/flyer-uproc-2-210-rr5yc6,,14/05/2026,2022
-,,,Cube,,1 051,2199,3149,https://upway.fr/products/cube-reaction-hybrid-pro-625-29-rr2wl5,,14/05/2026,2022
-,,,Bulls,,2 108,2049,4299,https://upway.fr/products/bulls-copperhead-evo-2-rr5hu5,,14/05/2026,2022
-,,,Cube,,679,1999,2599,https://upway.fr/products/cube-reaction-hybrid-performance-allroad-rr5nu0,,14/05/2026,2022
+,,,Cube,,371,2299,3459,https://upway.fr/products/cube-nuride-hybrid-exc-allroad-rr5fm9,,14/05/2026,2020.0
+,,,Cube,,779,1899,2549,https://upway.fr/products/cube-reaction-hybrid-one-rr6eh7,,14/05/2026,2022.0
+,,,Trek,,2 030,1899,4124,https://upway.fr/products/trek-powerfly-4-rr6ma2,,14/05/2026,2022.0
+,,,Pegasus,,5 053,1249,3579,https://upway.fr/products/pegasus-premio-evo-10-lite-rr6dx3,,14/05/2026,2021.0
+,,,Ghost,,3 219,2299,4599,https://upway.fr/products/ghost-eteru-pro-eq-rr5yp3,,14/05/2026,2023.0
+,,,Cube,,5,2299,2849,https://upway.fr/products/cube-reaction-hybrid-one-625-rr5qn6,,14/05/2026,2023.0
+,,,Hoheacht,,4 573,2449,5788,https://upway.fr/products/hoheacht-mola-terra-rr6bl6,,14/05/2026,2023.0
+,,,Scott,,2 260,2449,6199,https://upway.fr/products/scott-contessa-spark-eride-710-rr3qh8,,14/05/2026,2018.0
+,,,Giant,,987,2499,4199,https://upway.fr/products/giant-fathom-e-ex-1-l-rr5ld8,,14/05/2026,2024.0
+,,,Fischer,,630,1349,2699,https://upway.fr/products/fischer-em1723-rr4th1,,14/05/2026,2019.0
+,,,Cube,,1 015,2199,3049,https://upway.fr/products/cube-reaction-hybrid-pro-500-rr5nm4,,14/05/2026,2023.0
+,,,Mondraker,,12 291,1249,3599,https://upway.fr/products/mondraker-prime-x-rr5ht1,,14/05/2026,2021.0
+,,,Raymon,,2 255,2249,4759,https://upway.fr/products/raymon-crossray-fs-e-50-rr4bm7,,14/05/2026,2023.0
+,,,Cube,,172,1949,2549,https://upway.fr/products/cube-reaction-hybrid-one-500-rr5st8,,14/05/2026,2022.0
+,,,Bulls,,576,2199,4299,https://upway.fr/products/bulls-estream-evo-1-29-rr4bq3,,14/05/2026,2022.0
+,,,Flyer,,5,2349,5199,https://upway.fr/products/flyer-uproc-2-210-rr5yc6,,14/05/2026,2022.0
+,,,Cube,,1 051,2199,3149,https://upway.fr/products/cube-reaction-hybrid-pro-625-29-rr2wl5,,14/05/2026,2022.0
+,,,Bulls,,2 108,2049,4299,https://upway.fr/products/bulls-copperhead-evo-2-rr5hu5,,14/05/2026,2022.0
+,,,Cube,,679,1999,2599,https://upway.fr/products/cube-reaction-hybrid-performance-allroad-rr5nu0,,14/05/2026,2022.0
+,,,Moustache,,2 854,1999,4000,https://upway.fr/products/moustache-samedi-27-wide-2-rr6ca5,,18/05/2026,2020
+,,,Cube,,1 402,2099,2999,https://upway.fr/products/cube-nuride-hybrid-pro-allroad-rr6ds1,,18/05/2026,2022
+,,,Giant,,3 203,949,1955,https://upway.fr/products/giant-talon-e2-rr5tz0,,18/05/2026,2021
+,,,Lapierre,,2 517,1749,3999,https://upway.fr/products/lapierre-overvolt-tr500i-rr5kp5,,18/05/2026,2020
+,,,Scott,,2 971,1649,3099,https://upway.fr/products/scott-aspect-eride-930-rr5zt9,,18/05/2026,2022
+,,,Giant,,5,1999,3299,https://upway.fr/products/giant-explore-e-1-gts-rr3sg4,,18/05/2026,2023
+,,,Orbea,,4 515,1399,2799,https://upway.fr/products/orbea-keram-30-rr5hq2,,18/05/2026,2022
+,,,Mondraker,,2 957,1949,3999,https://upway.fr/products/mondraker-prime-29-rr3mt5,,18/05/2026,2023
+,,,Trek,,2 030,1799,4124,https://upway.fr/products/trek-powerfly-4-rr6ma2,,18/05/2026,2022
+,,,Pegasus,,5 053,1199,3579,https://upway.fr/products/pegasus-premio-evo-10-lite-rr6dx3,,18/05/2026,2021
+,,,Ktm,,346,2249,3999,https://upway.fr/products/ktm-macina-team-692-rr5yb4,,18/05/2026,2022
+,,,Raymon,,25,1699,2899,https://upway.fr/products/raymon-hardray-e-40-rr5sx9,,18/05/2026,2024
+,,,Scor,,7 820,2249,6999,https://upway.fr/products/scor-4060-z-lt-rr3zy7,,18/05/2026,2022
+,,,Haibike,,5,2199,3499,https://upway.fr/products/haibike-trekking-4-rr6js5,,18/05/2026,2023
+,,,Cube,,5,2199,2849,https://upway.fr/products/cube-reaction-hybrid-one-625-rr5qn5,,18/05/2026,2023
+,,,Ghost,,3 219,2149,4599,https://upway.fr/products/ghost-eteru-pro-eq-rr5yp3,,18/05/2026,2023
+,,,Hoheacht,,4 573,2299,5788,https://upway.fr/products/hoheacht-mola-terra-rr6bl6,,18/05/2026,2023
+,,,Nakamura,,1 002,849,1199,https://upway.fr/products/nakamura-ecliff-700-rr5ru7,,18/05/2026,2022
+,,,Focus,,5 928,2049,6499,https://upway.fr/products/focus-jam-78-rr3zw5,,18/05/2026,2022
+,,,Scott,,2 260,2349,6199,https://upway.fr/products/scott-contessa-spark-eride-710-rr3qh8,,18/05/2026,2018
+,,,Giant,,987,2349,4199,https://upway.fr/products/giant-fathom-e-ex-1-l-rr5ld8,,18/05/2026,2024
+,,,Fischer,,630,1299,2699,https://upway.fr/products/fischer-em1723-rr4th1,,18/05/2026,2019
+,,,Cube,,1 015,2149,3049,https://upway.fr/products/cube-reaction-hybrid-pro-500-rr5nm4,,18/05/2026,2023
