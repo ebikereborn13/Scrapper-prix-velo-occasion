@@ -5,10 +5,19 @@ Neomouv,2024.0,575.0,406.0,1849.0,2025,December,1.0,78.0,,EBR Ventes,03/12/2025
 Lapierre,2025.0,4.0,1699.0,2699.0,2026,April,1.0,37.1,,EBR Ventes,16/04/2026
 Conway,2022.0,0.0,1599.0,3099.0,2026,May,4.0,48.4,,EBR Ventes,07/05/2026
 Conway,2023.0,0.0,1999.0,3499.0,2026,May,3.0,42.9,,EBR Ventes,12/05/2026
-Gazelle,2024.0,688,2299.0,3599.0,2026,May,2.0,36.1,https://rutile.bike/products/gazelle-ultimate-c8,Rutile,25/05/2026
-Conway,2026.0,0,2299.0,3499.0,2026,May,0.0,34.3,https://rutile.bike/products/conway-cairon-c-2-0-noir-copie-8,Rutile,25/05/2026
-Cannondale,2023.0,0,1499.0,2599.0,2026,May,3.0,42.3,https://rutile.bike/products/cannondale-tesoro-neo-sl-l,Rutile,25/05/2026
+Flyer,2026.0,0,2399.0,4799.0,2026,May,0.0,50.0,https://rutile.bike/products/flyer-g1-upstreet-5-10-comfort-vert-s-1,Rutile,25/05/2026
+Kayza,2026.0,0,1799.0,2949.0,2026,May,0.0,39.0,https://rutile.bike/products/kayza-elektro-trekkingrad-talik-dry-6-m,Rutile,25/05/2026
+Conway,2022.0,0,1799.0,3049.0,2026,May,4.0,41.0,https://rutile.bike/products/conway-rad-cairon-t-2-0-rouge-l,Rutile,25/05/2026
+Conway,2022.0,0,1799.0,3049.0,2026,May,4.0,41.0,https://rutile.bike/products/conway-rad-cairon-t-2-0-rouge-s-1,Rutile,25/05/2026
+Flyer,2026.0,0,2399.0,4799.0,2026,May,0.0,50.0,https://rutile.bike/products/flyer-g1-upstreet-5-10-comfort-vert-s-4,Rutile,25/05/2026
+Flyer,2025.0,0,2399.0,4799.0,2026,May,1.0,50.0,https://rutile.bike/products/flyer-g1-upstreet-5-10-comfort-noir-s-5,Rutile,25/05/2026
+Focus,2024.0,0,2899.0,4399.0,2026,May,2.0,34.1,https://rutile.bike/products/focus-aventura-6-8-29di-s40-f-red2-2,Rutile,25/05/2026
+Centurion,2024.0,606,2699.0,4099.0,2026,May,2.0,34.2,https://rutile.bike/products/centurion-country-tour-r960i-2,Rutile,25/05/2026
+Conway,2024.0,226,1699.0,2599.0,2026,May,2.0,34.6,https://rutile.bike/products/conway-cairon-c-1-0,Rutile,25/05/2026
+Haibike,2024.0,0,1899.0,2899.0,2026,May,2.0,34.5,https://rutile.bike/products/haibike-trekking-3-high-i500wh-9g-alivio23,Rutile,25/05/2026
 Flyer,2023.0,598,2899.0,4399.0,2026,May,3.0,34.1,https://rutile.bike/products/flyer-gotour-6,Rutile,25/05/2026
+Cannondale,2023.0,0,1499.0,2599.0,2026,May,3.0,42.3,https://rutile.bike/products/cannondale-tesoro-neo-sl-l,Rutile,25/05/2026
+Merida,2024.0,1395,2099.0,3299.0,2026,May,2.0,36.4,https://rutile.bike/products/merida-espresso-city-400-eq,Rutile,25/05/2026
 Flyer,2026.0,0,2399.0,4799.0,2026,May,0.0,50.0,https://rutile.bike/products/flyer-g1-upstreet-5-10-comfort-vert-s-3,Rutile,25/05/2026
 Conway,2022.0,0,1799.0,3049.0,2026,May,4.0,41.0,https://rutile.bike/products/conway-rad-cairon-t-2-0-625-he-28-s-9gg-red-black-1,Rutile,25/05/2026
 Winora,2024.0,984,2799.0,4299.0,2026,May,2.0,34.9,https://rutile.bike/products/winora-yakun-14,Rutile,25/05/2026
@@ -17,29 +26,12 @@ Flyer,2024.0,519,2399.0,4799.0,2026,May,2.0,50.0,https://rutile.bike/products/fl
 Raymon,2023.0,1701,1999.0,3099.0,2026,May,3.0,35.5,https://rutile.bike/products/raymon-crossray-e-5-0-wave-27-5x50cm-9s-alivio,Rutile,25/05/2026
 Gazelle,2023.0,7243,1799.0,2799.0,2026,May,3.0,35.7,https://rutile.bike/products/gazelle-bloom-c7-hms-light-olive-tu-light-olive,Rutile,25/05/2026
 Conway,2026.0,0,2299.0,3499.0,2026,May,0.0,34.3,https://rutile.bike/products/conway-cairon-c-2-0-noir-l-copie,Rutile,25/05/2026
-Trek,2023.0,1445,2479.0,5119.0,2026,May,3.0,51.6,https://rebike.fr/collections/vtt-suv,Rebike,25/05/2026
-Trek,2021.0,1411,2129.0,4616.0,2026,May,5.0,53.9,https://rebike.fr/collections/vtt-suv,Rebike,25/05/2026
-Cube,2023.0,2247,2739.0,4599.0,2026,May,3.0,40.4,https://rebike.fr/collections/vtt-suv,Rebike,25/05/2026
-Haibike,2024.0,0,1899.0,2899.0,2026,May,2.0,34.5,https://rutile.bike/products/haibike-trekking-3-high-i500wh-9g-alivio23,Rutile,25/05/2026
-Flyer,2023.0,119,3229.0,6799.0,2026,May,3.0,52.5,https://rebike.fr/collections/vtt-suv,Rebike,25/05/2026
-Conway,2022.0,900,2349.0,4600.0,2026,May,4.0,48.9,https://rebike.fr/collections/vtt-suv,Rebike,25/05/2026
-Bulls,2022.0,620,4569.0,8993.0,2026,May,4.0,49.2,https://rebike.fr/collections/vtt-suv,Rebike,25/05/2026
-Giant,2021.0,4190,2239.0,4545.0,2026,May,5.0,50.7,https://rebike.fr/collections/vtt-suv,Rebike,25/05/2026
-Trek,2023.0,2089,2499.0,4799.0,2026,May,3.0,47.9,https://rebike.fr/collections/vtt-suv,Rebike,25/05/2026
-Trek,2022.0,480,2399.0,4556.0,2026,May,4.0,47.3,https://rebike.fr/collections/vtt-suv,Rebike,25/05/2026
-Raymon,2022.0,38,1899.0,3597.0,2026,May,4.0,47.2,https://rebike.fr/collections/vtt-suv,Rebike,25/05/2026
-Cube,2023.0,2280,2989.0,5469.0,2026,May,3.0,45.3,https://rebike.fr/collections/vtt-suv,Rebike,25/05/2026
-Stevens,2022.0,1380,3119.0,5989.0,2026,May,4.0,47.9,https://rebike.fr/collections/vtt-suv,Rebike,25/05/2026
-Focus,2023.0,2664,3189.0,5799.0,2026,May,3.0,45.0,https://rebike.fr/collections/vtt-suv,Rebike,25/05/2026
-Trek,2023.0,375,2169.0,3890.0,2026,May,3.0,44.2,https://rebike.fr/collections/vtt-suv,Rebike,25/05/2026
-Haibike,2022.0,905,3269.0,6850.0,2026,May,4.0,52.3,https://rebike.fr/collections/vtt-suv,Rebike,25/05/2026
-Cube,2023.0,6149,2699.0,4699.0,2026,May,3.0,42.6,https://rebike.fr/collections/vtt-suv,Rebike,25/05/2026
-Pegasus,2023.0,934,2199.0,4589.0,2026,May,3.0,52.1,https://rebike.fr/collections/vtc-electrique,Rebike,25/05/2026
-Cube,2023.0,5579,1749.0,2849.0,2026,May,3.0,38.6,https://rebike.fr/collections/vtc-electrique,Rebike,25/05/2026
-Conway,2022.0,4294,1559.0,2999.0,2026,May,4.0,48.0,https://rebike.fr/collections/vtt-suv,Rebike,25/05/2026
-Conway,2024.0,226,1699.0,2599.0,2026,May,2.0,34.6,https://rutile.bike/products/conway-cairon-c-1-0,Rutile,25/05/2026
-Centurion,2024.0,606,2699.0,4099.0,2026,May,2.0,34.2,https://rutile.bike/products/centurion-country-tour-r960i-2,Rutile,25/05/2026
-Focus,2024.0,0,2899.0,4399.0,2026,May,2.0,34.1,https://rutile.bike/products/focus-aventura-6-8-29di-s40-f-red2-2,Rutile,25/05/2026
+Conway,2026.0,0,2299.0,3499.0,2026,May,0.0,34.3,https://rutile.bike/products/conway-cairon-c-2-0-noir-copie-8,Rutile,25/05/2026
+Winora,2024.0,837,2499.0,3999.0,2026,May,2.0,37.5,https://rutile.bike/products/winora-sinus-r8,Rutile,25/05/2026
+Velo de ville,2025.0,1256,2599.0,3979.0,2026,May,1.0,34.7,https://rutile.bike/products/velo-de-ville-seb-990-pro,Rutile,25/05/2026
+Conway,2022.0,0,1799.0,3049.0,2026,May,4.0,41.0,https://rutile.bike/products/conway-rad-cairon-t-2-0-rouge-m-6,Rutile,25/05/2026
+Haibike,2023.0,900,2899.0,4399.0,2026,May,3.0,34.1,https://rutile.bike/products/haibike-trekking-28,Rutile,25/05/2026
+Gazelle,2024.0,688,2299.0,3599.0,2026,May,2.0,36.1,https://rutile.bike/products/gazelle-ultimate-c8,Rutile,25/05/2026
 Ortler,2022.0,1070,1399.0,2299.0,2026,May,4.0,39.1,https://rutile.bike/products/ortler-montreux-6100-intube-diamant,Rutile,25/05/2026
 Kettler,2024.0,675,1999.0,3099.0,2026,May,2.0,35.5,https://rutile.bike/products/kettler-escaro-comp-5-rt,Rutile,25/05/2026
 Cannondale,2024.0,2892,3499.0,5899.0,2026,May,2.0,40.7,https://rutile.bike/products/cannondale-moterra-neo-eq,Rutile,25/05/2026
@@ -57,42 +49,37 @@ Diamant,2024.0,1012,2499.0,3799.0,2026,May,2.0,34.2,https://rutile.bike/products
 Victoria,2021.0,247,2299.0,3599.0,2026,May,5.0,36.1,https://rutile.bike/products/victoria-e-touring-12-9,Rutile,25/05/2026
 Focus,2024.0,0,2899.0,4399.0,2026,May,2.0,34.1,https://rutile.bike/products/focus-aventura-6-8-29di-s40-f-gry2-1,Rutile,25/05/2026
 R raymon,2022.0,1612,2199.0,3499.0,2026,May,4.0,37.2,https://rutile.bike/products/r-raymon-tourray-e-6-2,Rutile,25/05/2026
-Flyer,2025.0,0,2399.0,4799.0,2026,May,1.0,50.0,https://rutile.bike/products/flyer-g1-upstreet-5-10-comfort-noir-s-5,Rutile,25/05/2026
-Conway,2023.0,6925,1649.0,3387.0,2026,May,3.0,51.3,https://rebike.fr/collections/vtc-electrique,Rebike,25/05/2026
-Conway,2022.0,0,1799.0,3049.0,2026,May,4.0,41.0,https://rutile.bike/products/conway-rad-cairon-t-2-0-rouge-s-1,Rutile,25/05/2026
-Conway,2022.0,0,1799.0,3049.0,2026,May,4.0,41.0,https://rutile.bike/products/conway-rad-cairon-t-2-0-rouge-l,Rutile,25/05/2026
-Kayza,2026.0,0,1799.0,2949.0,2026,May,0.0,39.0,https://rutile.bike/products/kayza-elektro-trekkingrad-talik-dry-6-m,Rutile,25/05/2026
-Flyer,2026.0,0,2399.0,4799.0,2026,May,0.0,50.0,https://rutile.bike/products/flyer-g1-upstreet-5-10-comfort-vert-s-1,Rutile,25/05/2026
-Haibike,2023.0,900,2899.0,4399.0,2026,May,3.0,34.1,https://rutile.bike/products/haibike-trekking-28,Rutile,25/05/2026
-Merida,2024.0,1395,2099.0,3299.0,2026,May,2.0,36.4,https://rutile.bike/products/merida-espresso-city-400-eq,Rutile,25/05/2026
-Pegasus,2025.0,246,2899.0,4499.0,2026,May,1.0,35.6,https://rutile.bike/products/pegasus-strong-evo-5r,Rutile,25/05/2026
-Conway,2022.0,0,1799.0,3049.0,2026,May,4.0,41.0,https://rutile.bike/products/conway-rad-cairon-t-2-0-rouge-m-6,Rutile,25/05/2026
-Velo de ville,2025.0,1256,2599.0,3979.0,2026,May,1.0,34.7,https://rutile.bike/products/velo-de-ville-seb-990-pro,Rutile,25/05/2026
-Haibike,2023.0,344,1899.0,3399.0,2026,May,3.0,44.1,https://rutile.bike/products/haibike-trekking-6-low-reconditionne,Rutile,25/05/2026
-Conway,2026.0,0,2299.0,3499.0,2026,May,0.0,34.3,https://rutile.bike/products/conway-cairon-c-2-0-noir-m-2,Rutile,25/05/2026
 Liqbike,2023.0,1656,1899.0,2999.0,2026,May,3.0,36.7,https://rutile.bike/products/liqbike-active,Rutile,25/05/2026
-Winora,2024.0,837,2499.0,3999.0,2026,May,2.0,37.5,https://rutile.bike/products/winora-sinus-r8,Rutile,25/05/2026
-Flyer,2026.0,0,2399.0,4799.0,2026,May,0.0,50.0,https://rutile.bike/products/flyer-g1-upstreet-5-10-comfort-vert-s-4,Rutile,25/05/2026
+Conway,2026.0,0,2299.0,3499.0,2026,May,0.0,34.3,https://rutile.bike/products/conway-cairon-c-2-0-noir-m-2,Rutile,25/05/2026
+Haibike,2023.0,344,1899.0,3399.0,2026,May,3.0,44.1,https://rutile.bike/products/haibike-trekking-6-low-reconditionne,Rutile,25/05/2026
+O2feel,2021.0,3 228 ,1149.0,2249.0,2026,May,5.0,48.9,https://upway.fr/products/o2feel-vog-city-up-41-rr6ue4,Upway,25/05/2026
+Pegasus,2025.0,246,2899.0,4499.0,2026,May,1.0,35.6,https://rutile.bike/products/pegasus-strong-evo-5r,Rutile,25/05/2026
+Decathlon,2021.0,1 738 ,1549.0,2399.0,2026,May,5.0,35.4,https://upway.fr/products/decathlon-riverside-540e-rr6sb7,Upway,25/05/2026
 O2feel,2026.0,535,2199.0,2799.0,2026,May,0.0,21.4,https://mint-bikes.com/products/o2feel-vern-7,Mint,25/05/2026
-Grecos,2022.0,4666,1599.0,3799.0,2026,May,4.0,57.9,https://rebike.fr/collections/vtc-electrique,Rebike,25/05/2026
-Giant,2023.0,0,2749.0,4200.0,2026,May,3.0,34.5,https://mint-bikes.com/products/giant-stance-e-ex-s,Mint,25/05/2026
-Giant,2021.0,2822,1299.0,2899.0,2026,May,5.0,55.2,https://mint-bikes.com/products/giant-anytour-e-3-gts-m,Mint,25/05/2026
-Giant,2021.0,3021,1349.0,3649.0,2026,May,5.0,63.0,https://mint-bikes.com/products/giant-dailytour-e-1-bd,Mint,25/05/2026
-Cube,2024.0,464,1449.0,2899.0,2026,May,2.0,50.0,https://mint-bikes.com/products/cube-ella-hybrid-ride-500-58,Mint,25/05/2026
+Velodeville,2024.0,54 ,2249.0,3999.0,2026,May,2.0,43.8,https://upway.fr/products/velodeville-6ty-urban-rr6tp4,Upway,25/05/2026
 Gitane,2021.0,1500,899.0,2649.0,2026,May,5.0,66.1,https://mint-bikes.com/products/gitane-ec01-d9,Mint,25/05/2026
 Haibike,2024.0,266,1999.0,4299.0,2026,May,2.0,53.5,https://mint-bikes.com/products/haibike-trekking-8-2024-s,Mint,25/05/2026
-Cube,2023.0,988,2249.0,4099.0,2026,May,3.0,45.1,https://mint-bikes.com/products/cube-reaction-hybrid-slx-750-2023-l,Mint,25/05/2026
 Focus,2023.0,1894,2299.0,4999.0,2026,May,3.0,54.0,https://mint-bikes.com/products/focus-thron2-6-7-eqp,Mint,25/05/2026
+Winora,2024.0,629,1899.0,3199.0,2026,May,2.0,40.6,https://mint-bikes.com/products/winora-yucatan-x8,Mint,25/05/2026
 Winora,2023.0,146,2299.0,4699.0,2026,May,3.0,51.1,https://mint-bikes.com/products/winora-yakun-12,Mint,25/05/2026
 Megamo,2026.0,1,2969.0,3199.0,2026,May,0.0,7.2,https://mint-bikes.com/products/megamo-reach-ht-20-2026,Mint,25/05/2026
 Moustache,2022.0,1,1499.0,2299.0,2026,May,4.0,34.8,https://mint-bikes.com/products/moustache-samedi-28-1-2022,Mint,25/05/2026
 Bh,2022.0,7,2899.0,5499.0,2026,May,4.0,47.3,https://mint-bikes.com/products/bh-atom-e-suv-pro-se,Mint,25/05/2026
 Megamo,2026.0,1,2969.0,3199.0,2026,May,0.0,7.2,https://mint-bikes.com/products/megamo-reach-ht-20,Mint,25/05/2026
 Kalkhoff,2023.0,151,1799.0,2999.0,2026,May,3.0,40.0,https://mint-bikes.com/products/kalkhoff-endeavour-1-b-move-2023,Mint,25/05/2026
-Winora,2024.0,629,1899.0,3199.0,2026,May,2.0,40.6,https://mint-bikes.com/products/winora-yucatan-x8,Mint,25/05/2026
-O2feel,2025.0,1,2329.0,2999.0,2026,May,1.0,22.3,https://mint-bikes.com/products/o2feel-vern-adventure-power-8-2,Mint,25/05/2026
-O2feel,2025.0,1,2099.0,4299.0,2026,May,1.0,51.2,https://mint-bikes.com/products/o2feel-vern-fs-7-adventure,Mint,25/05/2026
-Haibike,2023.0,184,2199.0,4299.0,2026,May,3.0,48.8,https://mint-bikes.com/products/haibike-trekking-8-m,Mint,25/05/2026
+Winora,2024.0,1056,1899.0,3699.0,2026,May,2.0,48.7,https://mint-bikes.com/products/winora-sinus-r8e,Mint,25/05/2026
+Giant,2026.0,100,899.0,999.0,2026,May,0.0,10.0,https://mint-bikes.comhttps://mint-bikes.com/products/giant-explore-e-4-gts-2022,Mint,25/05/2026
+Nakamura,2023.0,266 ,1099.0,1299.0,2026,May,3.0,15.4,https://upway.fr/products/nakamura-epowerfit-ltd-rr6xj5,Upway,25/05/2026
+Cube,2022.0,1 821 ,2199.0,3199.0,2026,May,4.0,31.3,https://upway.fr/products/cube-kathmandu-hybrid-pro-rr6sh6,Upway,25/05/2026
+Kalkhoff,2020.0,4 663 ,1299.0,2659.0,2026,May,6.0,51.1,https://upway.fr/products/kalkhoff-endeavour-3b-move-rr6sf2,Upway,25/05/2026
+Moustache,2019.0,2 698 ,1499.0,2799.0,2026,May,7.0,46.4,https://upway.fr/products/moustache-samedi-28-open-rr3jb0,Upway,25/05/2026
+Riese,2018.0,2 112 ,2049.0,4499.0,2026,May,8.0,54.5,https://upway.fr/products/riese-muller-charger-3-gt-vario-rr6pu2,Upway,25/05/2026
+Nakamura,2022.0,2 716 ,1499.0,2099.0,2026,May,4.0,28.6,https://upway.fr/products/nakamura-ecrossover-xv-mb36,Upway,25/05/2026
+Decathlon,2023.0,63 ,999.0,1297.0,2026,May,3.0,23.0,https://upway.fr/products/decathlon-elops-900e-rr3xx7,Upway,25/05/2026
+Cube,2024.0,464,1449.0,2899.0,2026,May,2.0,50.0,https://mint-bikes.com/products/cube-ella-hybrid-ride-500-58,Mint,25/05/2026
+Cannondale,2023.0,10 ,1849.0,3499.0,2026,May,3.0,47.2,https://upway.fr/products/cannondale-tesoro-neo-x-3-rr2pb0,Upway,25/05/2026
+Giant,2021.0,3021,1349.0,3649.0,2026,May,5.0,63.0,https://mint-bikes.com/products/giant-dailytour-e-1-bd,Mint,25/05/2026
+Giant,2023.0,0,2749.0,4200.0,2026,May,3.0,34.5,https://mint-bikes.com/products/giant-stance-e-ex-s,Mint,25/05/2026
 Cube,2023.0,916,1849.0,2899.0,2026,May,3.0,36.2,https://mint-bikes.com/products/cube-touring-hybrid-one-625-2023-54,Mint,25/05/2026
 Trek,2022.0,97,2399.0,5299.0,2026,May,4.0,54.7,https://mint-bikes.com/products/trek-powerfly-7-eq,Mint,25/05/2026
 Scott,2023.0,494,1799.0,3799.0,2026,May,3.0,52.6,https://mint-bikes.com/products/scott-sub-sport-eride-20-m,Mint,25/05/2026
@@ -108,36 +95,13 @@ Granville,2024.0,0,1749.0,2599.0,2026,May,2.0,32.7,https://mint-bikes.com/produc
 Granville,2023.0,0,1799.0,2599.0,2026,May,3.0,30.8,https://mint-bikes.com/products/granville-e-urban-30,Mint,25/05/2026
 Granville,2023.0,0,1799.0,2599.0,2026,May,3.0,30.8,https://mint-bikes.com/products/granville-e-urban-30-2023,Mint,25/05/2026
 Haibike,2024.0,175,2149.0,4499.0,2026,May,2.0,52.2,https://mint-bikes.com/products/haibike-trekking-7-2024,Mint,25/05/2026
-Winora,2024.0,1056,1899.0,3699.0,2026,May,2.0,48.7,https://mint-bikes.com/products/winora-sinus-r8e,Mint,25/05/2026
-Kalkhoff,2023.0,4607,2369.0,4499.0,2026,May,3.0,47.3,https://rebike.fr/collections/vtc-electrique,Rebike,25/05/2026
-Giant,2026.0,100,899.0,999.0,2026,May,0.0,10.0,https://mint-bikes.comhttps://mint-bikes.com/products/giant-explore-e-4-gts-2022,Mint,25/05/2026
-Cube,2022.0,1 821 ,2199.0,3199.0,2026,May,4.0,31.3,https://upway.fr/products/cube-kathmandu-hybrid-pro-rr6sh6,Upway,25/05/2026
-Decathlon,2021.0,1 738 ,1549.0,2399.0,2026,May,5.0,35.4,https://upway.fr/products/decathlon-riverside-540e-rr6sb7,Upway,25/05/2026
-O2feel,2021.0,3 228 ,1149.0,2249.0,2026,May,5.0,48.9,https://upway.fr/products/o2feel-vog-city-up-41-rr6ue4,Upway,25/05/2026
-Bulls,2022.0,5233,1999.0,4500.0,2026,May,4.0,55.6,https://rebike.fr/collections/vtc-electrique,Rebike,25/05/2026
-Bulls,2022.0,5917,1859.0,3859.0,2026,May,4.0,51.8,https://rebike.fr/collections/vtc-electrique,Rebike,25/05/2026
-Pegasus,2022.0,3018,1849.0,3549.0,2026,May,4.0,47.9,https://rebike.fr/collections/vtc-electrique,Rebike,25/05/2026
-Cannondale,2022.0,1332,1899.0,4399.0,2026,May,4.0,56.8,https://rebike.fr/collections/vtc-electrique,Rebike,25/05/2026
+Haibike,2023.0,184,2199.0,4299.0,2026,May,3.0,48.8,https://mint-bikes.com/products/haibike-trekking-8-m,Mint,25/05/2026
+O2feel,2025.0,1,2099.0,4299.0,2026,May,1.0,51.2,https://mint-bikes.com/products/o2feel-vern-fs-7-adventure,Mint,25/05/2026
+O2feel,2025.0,1,2329.0,2999.0,2026,May,1.0,22.3,https://mint-bikes.com/products/o2feel-vern-adventure-power-8-2,Mint,25/05/2026
+Cube,2023.0,988,2249.0,4099.0,2026,May,3.0,45.1,https://mint-bikes.com/products/cube-reaction-hybrid-slx-750-2023-l,Mint,25/05/2026
+Giant,2021.0,2822,1299.0,2899.0,2026,May,5.0,55.2,https://mint-bikes.com/products/giant-anytour-e-3-gts-m,Mint,25/05/2026
 Giant,2022.0,5 ,1799.0,3299.0,2026,May,4.0,45.5,https://upway.fr/products/giant-explore-e1-rr6zw0,Upway,25/05/2026
-Koga,2023.0,366,1699.0,4399.0,2026,May,3.0,61.4,https://rebike.fr/collections/vtc-electrique,Rebike,25/05/2026
-Haibike,2022.0,4380,1199.0,2999.0,2026,May,4.0,60.0,https://rebike.fr/collections/vtc-electrique,Rebike,25/05/2026
-Corratec,2024.0,0,2169.0,4299.0,2026,May,2.0,49.5,https://rebike.fr/collections/vtc-electrique,Rebike,25/05/2026
-Pegasus,2022.0,2480,1459.0,3150.0,2026,May,4.0,53.7,https://rebike.fr/collections/vtc-electrique,Rebike,25/05/2026
-Winora,2024.0,310,2259.0,4499.0,2026,May,2.0,49.8,https://rebike.fr/collections/vtc-electrique,Rebike,25/05/2026
-Cube,2023.0,594,2119.0,3349.0,2026,May,3.0,36.7,https://rebike.fr/collections/vtc-electrique,Rebike,25/05/2026
-Cube,2023.0,4330,2399.0,3899.0,2026,May,3.0,38.5,https://rebike.fr/collections/vtc-electrique,Rebike,25/05/2026
-Kreidler,2022.0,269,1499.0,2799.0,2026,May,4.0,46.4,https://rebike.fr/collections/vtc-electrique,Rebike,25/05/2026
-Velodeville,2024.0,54 ,2249.0,3999.0,2026,May,2.0,43.8,https://upway.fr/products/velodeville-6ty-urban-rr6tp4,Upway,25/05/2026
-Yoors,2025.0,5 ,1749.0,2599.0,2026,May,1.0,32.7,https://upway.fr/products/yoors-derailleur-rr7dc4,Upway,25/05/2026
-Bulls,2023.0,131 ,1949.0,3999.0,2026,May,3.0,51.3,https://upway.fr/products/bulls-copperhead-evo-1-rr5wp8,Upway,25/05/2026
-Kalkhoff,2020.0,4 663 ,1299.0,2659.0,2026,May,6.0,51.1,https://upway.fr/products/kalkhoff-endeavour-3b-move-rr6sf2,Upway,25/05/2026
-Moustache,2019.0,2 698 ,1499.0,2799.0,2026,May,7.0,46.4,https://upway.fr/products/moustache-samedi-28-open-rr3jb0,Upway,25/05/2026
-Riese,2018.0,2 112 ,2049.0,4499.0,2026,May,8.0,54.5,https://upway.fr/products/riese-muller-charger-3-gt-vario-rr6pu2,Upway,25/05/2026
-Nakamura,2022.0,2 716 ,1499.0,2099.0,2026,May,4.0,28.6,https://upway.fr/products/nakamura-ecrossover-xv-mb36,Upway,25/05/2026
-Decathlon,2023.0,63 ,999.0,1297.0,2026,May,3.0,23.0,https://upway.fr/products/decathlon-elops-900e-rr3xx7,Upway,25/05/2026
-Cannondale,2023.0,10 ,1849.0,3499.0,2026,May,3.0,47.2,https://upway.fr/products/cannondale-tesoro-neo-x-3-rr2pb0,Upway,25/05/2026
 Riese,2021.0,3 419 ,2299.0,4549.0,2026,May,5.0,49.5,https://upway.fr/products/riese-muller-swing3-automatic-rr6yq3,Upway,25/05/2026
-Cube,2021.0,3 882 ,1799.0,2999.0,2026,May,5.0,40.0,https://upway.fr/products/cube-kathmandu-hybrid-pro-rr5td5,Upway,25/05/2026
 Giant,2022.0,5 ,1949.0,3499.0,2026,May,4.0,44.3,https://upway.fr/products/giant-dailytour-e-2-rr6zr5,Upway,25/05/2026
 Liv,2022.0,1 708 ,1799.0,3549.0,2026,May,4.0,49.3,https://upway.fr/products/liv-amiti-e1-rd-evo-rr6eb8,Upway,25/05/2026
 Kalkhoff,2022.0,2 862 ,1749.0,2899.0,2026,May,4.0,39.7,https://upway.fr/products/kalkhoff-image-1b-advance-rr6xw2,Upway,25/05/2026
@@ -145,5 +109,41 @@ Neomouv,2025.0,5 ,1499.0,2849.0,2026,May,1.0,47.4,https://upway.fr/products/ne
 Gudereit,2021.0,2 229 ,1399.0,3398.0,2026,May,5.0,58.8,https://upway.fr/products/gudereit-et3-evo-rr6bk1,Upway,25/05/2026
 Ktm,2023.0,6 950 ,2049.0,4499.0,2026,May,3.0,54.5,https://upway.fr/products/ktm-macina-cross-710-rr5zl4,Upway,25/05/2026
 Cube,2019.0,589 ,1599.0,2599.0,2026,May,7.0,38.5,https://upway.fr/products/cube-cross-hpa-pro-rr6qd4,Upway,25/05/2026
-Nakamura,2023.0,266 ,1099.0,1299.0,2026,May,3.0,15.4,https://upway.fr/products/nakamura-epowerfit-ltd-rr6xj5,Upway,25/05/2026
-Cube,2022.0,2195,2539.0,4199.0,2026,May,4.0,39.5,https://rebike.fr/collections/vtc-electrique,Rebike,25/05/2026
+Yoors,2025.0,5 ,1749.0,2599.0,2026,May,1.0,32.7,https://upway.fr/products/yoors-derailleur-rr7dc4,Upway,25/05/2026
+Cube,2021.0,3 882 ,1799.0,2999.0,2026,May,5.0,40.0,https://upway.fr/products/cube-kathmandu-hybrid-pro-rr5td5,Upway,25/05/2026
+Bulls,2023.0,131 ,1949.0,3999.0,2026,May,3.0,51.3,https://upway.fr/products/bulls-copperhead-evo-1-rr5wp8,Upway,25/05/2026
+Merida,2021.0,999,1869.0,4399.0,2026,May,5.0,57.5,https://rebike.fr/collections/vtc-electrique,Rebike,30/05/2026
+Pegasus,2022.0,620,1899.0,4119.0,2026,May,4.0,53.9,https://rebike.fr/collections/vtc-electrique,Rebike,30/05/2026
+Koga,2023.0,366,1699.0,4399.0,2026,May,3.0,61.4,https://rebike.fr/collections/vtc-electrique,Rebike,30/05/2026
+Scott,2022.0,6729,1739.0,3299.0,2026,May,4.0,47.3,https://rebike.fr/collections/vtc-electrique,Rebike,30/05/2026
+Kalkhoff,2022.0,3,2559.0,4377.0,2026,May,4.0,41.5,https://rebike.fr/collections/vtc-electrique,Rebike,30/05/2026
+Cube,2023.0,450,2099.0,3149.0,2026,May,3.0,33.3,https://rebike.fr/collections/vtc-electrique,Rebike,30/05/2026
+Cube,2023.0,11538,1999.0,3349.0,2026,May,3.0,40.3,https://rebike.fr/collections/vtc-electrique,Rebike,30/05/2026
+Diamant,2022.0,135,1779.0,3369.0,2026,May,4.0,47.2,https://rebike.fr/collections/vtc-electrique,Rebike,30/05/2026
+Rabeneick,2020.0,800,749.0,1299.0,2026,May,6.0,42.3,https://rebike.fr/collections/vtc-electrique,Rebike,30/05/2026
+Talos,2022.0,6956,849.0,1958.0,2026,May,4.0,56.6,https://rebike.fr/collections/vtc-electrique,Rebike,30/05/2026
+Pegasus,2022.0,3018,1799.0,3549.0,2026,May,4.0,49.3,https://rebike.fr/collections/vtc-electrique,Rebike,30/05/2026
+Bulls,2022.0,5233,2129.0,4500.0,2026,May,4.0,52.7,https://rebike.fr/collections/vtc-electrique,Rebike,30/05/2026
+Haibike,2022.0,4380,1279.0,2999.0,2026,May,4.0,57.4,https://rebike.fr/collections/vtc-electrique,Rebike,30/05/2026
+Conway,2024.0,82,1369.0,2306.0,2026,May,2.0,40.6,https://rebike.fr/collections/vtc-electrique,Rebike,30/05/2026
+Grecos,2022.0,4666,1649.0,3799.0,2026,May,4.0,56.6,https://rebike.fr/collections/vtc-electrique,Rebike,30/05/2026
+Conway,2023.0,3112,2999.0,5399.0,2026,May,3.0,44.5,https://rebike.fr/collections/vtt-suv,Rebike,30/05/2026
+Haibike,2022.0,905,3099.0,6850.0,2026,May,4.0,54.8,https://rebike.fr/collections/vtt-suv,Rebike,30/05/2026
+Stevens,2022.0,1380,3059.0,5989.0,2026,May,4.0,48.9,https://rebike.fr/collections/vtt-suv,Rebike,30/05/2026
+Focus,2023.0,2664,3129.0,5799.0,2026,May,3.0,46.0,https://rebike.fr/collections/vtt-suv,Rebike,30/05/2026
+Focus,2022.0,2846,2659.0,5194.0,2026,May,4.0,48.8,https://rebike.fr/collections/vtt-suv,Rebike,30/05/2026
+Trek,2023.0,375,2169.0,3889.0,2026,May,3.0,44.2,https://rebike.fr/collections/vtt-suv,Rebike,30/05/2026
+Haibike,2022.0,2019,1999.0,3809.0,2026,May,4.0,47.5,https://rebike.fr/collections/vtt-suv,Rebike,30/05/2026
+Giant,2022.0,821,2279.0,4999.0,2026,May,4.0,54.4,https://rebike.fr/collections/vtt-suv,Rebike,30/05/2026
+Trek,2025.0,289,3169.0,5489.0,2026,May,1.0,42.3,https://rebike.fr/collections/vtt-suv,Rebike,30/05/2026
+Kalkhoff,2023.0,4607,2369.0,4499.0,2026,May,3.0,47.3,https://rebike.fr/collections/vtc-electrique,Rebike,30/05/2026
+Haibike,2022.0,3,2229.0,4127.0,2026,May,4.0,46.0,https://rebike.fr/collections/vtt-suv,Rebike,30/05/2026
+Flyer,2023.0,8505,2899.0,6000.0,2026,May,3.0,51.7,https://rebike.fr/collections/vtt-suv,Rebike,30/05/2026
+Conway,2022.0,724,2549.0,4719.0,2026,May,4.0,46.0,https://rebike.fr/collections/vtt-suv,Rebike,30/05/2026
+Trek,2022.0,716,2159.0,3935.0,2026,May,4.0,45.1,https://rebike.fr/collections/vtt-suv,Rebike,30/05/2026
+Trek,2024.0,68,1759.0,3058.0,2026,May,2.0,42.5,https://rebike.fr/collections/vtt-suv,Rebike,30/05/2026
+Trek,2023.0,3070,2179.0,4299.0,2026,May,3.0,49.3,https://rebike.fr/collections/vtt-suv,Rebike,30/05/2026
+Bulls,2024.0,630,3229.0,5599.0,2026,May,2.0,42.3,https://rebike.fr/collections/vtt-suv,Rebike,30/05/2026
+Cannondale,2022.0,745,2699.0,4999.0,2026,May,4.0,46.0,https://rebike.fr/collections/vtt-suv,Rebike,30/05/2026
+Trek,2021.0,1983,1869.0,3799.0,2026,May,5.0,50.8,https://rebike.fr/collections/vtt-suv,Rebike,30/05/2026
+Cube,2023.0,4330,2469.0,3899.0,2026,May,3.0,36.7,https://rebike.fr/collections/vtc-electrique,Rebike,30/05/2026
